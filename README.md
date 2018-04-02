@@ -1,6 +1,6 @@
 # papers
 I plan to keep some published papers here.  
-Most of the papers, you can get from my [Homepage](https://sites.google.com/site/yekyawthunlp/).  
+Most of my papers, you can get them from my [Homepage](https://sites.google.com/site/yekyawthunlp/).  
 
 ## ICCA2018
 
