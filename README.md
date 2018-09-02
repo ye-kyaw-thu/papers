@@ -8,4 +8,4 @@ Thazin Myint Oo, Ye Kyaw Thu, Khin Mar Soe, Statistical Machine Translation betw
 
 ## SLTU-2018
 
-Aye Mya Hlaing, Win Pa Pa and Ye Kyaw Thu, "DNN-based Myanmar Speech Synthesis", In Proceedings of the 6th Workshop on Spoken Language Technologies for Under-resourced Languages ([SLTU Workshop](http://www.mica.edu.vn/sltu2018/index.php)), 29-31 Aug, 2018, Gurugram, India, [Paper]
+Aye Mya Hlaing, Win Pa Pa and Ye Kyaw Thu, "DNN-based Myanmar Speech Synthesis", In Proceedings of the 6th Workshop on Spoken Language Technologies for Under-resourced Languages ([SLTU Workshop](http://www.mica.edu.vn/sltu2018/index.php)), 29-31 Aug, 2018, Gurugram, India, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/SLTU-18/DNN-basedMyanmarSpeechSynthesis_SLTU18.pdf)]
