@@ -2,7 +2,7 @@
 I plan to keep some published papers here.  
 Most of my papers, you can get them from my [Homepage](https://sites.google.com/site/yekyawthunlp/).  
 
-### 12th APRU Doctoral PhD Academy Students Conference
+### 12th APRU Doctoral PhD Academy Students Conference, 2011
 
 Ye Kyaw Thu, "Software Assisting Tools in Teaching And Learning For Myanmar Students with Visual Disabilities (Research in Progress)", Proceedings of the 12th APRU Doctoral PhD Academy Students Conference, Beijing, China, July 4-7, 2011, (CD-ROM)
 
