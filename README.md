@@ -10,6 +10,10 @@ Ye Kyaw Thu, "Software Assisting Tools in Teaching And Learning For Myanmar Stud
 
 Kenta Takabuchi, Naoto Iwahashi, **Ye Kyaw Thu**, Takeo Kunishima, "DNN-based object manipulation to syllable sequence for language acquisition", In Proceedings of the Twenty-Second International Symposium on Artificial Life and Robotics 2017 (AROB 22nd 2017), January 19-21, 2017, Beppu, Japan, pp. 638-642. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/AROB-2017/AROB-2017-paper.pdf)]
 
+### PACLING 2017
+
+Aye Mya Hlaing, Win Pa Pa and **Ye Kyaw Thu**, "Myanmar Number Normalization for Text-to-Speech", In Proceedings of PACLING 2017, August 16-18, 2017, Yangon, Myanmar, pp. 346-356. [Paper](https://github.com/ye-kyaw-thu/papers/blob/master/PACLING2017/myanmarNumberNormalizationForText-to-Speech.pdf)  
+
 ## ICCA2018
 
 Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe, Statistical Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese), In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 304-311, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2018/16050.camrea-ready.pdf)].  
