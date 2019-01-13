@@ -12,7 +12,7 @@ Kenta Takabuchi, Naoto Iwahashi, **Ye Kyaw Thu**, Takeo Kunishima, "DNN-based ob
 
 ### PACLING 2017
 
-Aye Mya Hlaing, Win Pa Pa and **Ye Kyaw Thu**, "Myanmar Number Normalization for Text-to-Speech", In Proceedings of PACLING 2017, August 16-18, 2017, Yangon, Myanmar, pp. 346-356. [Paper](https://github.com/ye-kyaw-thu/papers/blob/master/PACLING2017/myanmarNumberNormalizationForText-to-Speech.pdf)  
+Aye Mya Hlaing, Win Pa Pa and **Ye Kyaw Thu**, "Myanmar Number Normalization for Text-to-Speech", In Proceedings of PACLING 2017, August 16-18, 2017, Yangon, Myanmar, pp. 346-356. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/PACLING2017/myanmarNumberNormalizationForText-to-Speech.pdf)]  
 
 ## ICCA2018
 
