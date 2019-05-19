@@ -4,31 +4,31 @@ Most of my papers, you can get them from my [Homepage](https://sites.google.com/
 
 ### 12th APRU Doctoral Students Conference, 2011
 
-Ye Kyaw Thu, "Software Assisting Tools in Teaching And Learning For Myanmar Students with Visual Disabilities (Research in Progress)", Proceedings of the 12th APRU Doctoral PhD Academy Students Conference, Beijing, China, July 4-7, 2011, (CD-ROM). [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/12th-APRU-Doctoral-Students-Conf/aprudsc12_submission_177.pdf)]
+**Ye Kyaw Thu**, "Software Assisting Tools in Teaching And Learning For Myanmar Students with Visual Disabilities (Research in Progress)", Proceedings of the 12th APRU Doctoral PhD Academy Students Conference, Beijing, China, July 4-7, 2011, (CD-ROM). [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/12th-APRU-Doctoral-Students-Conf/aprudsc12_submission_177.pdf)]
 
 ### IALP-2013
 
-Ye Kyaw Thu, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "A Purely Monotonic Approach to Machine Translation for Similar Languages", Proceedings of International Conference on Asian Language Processing 2013 (IALP 2013), August 17~19, 2013, Urumqi, China, pp. 107-110.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IALP2013/aPurelyMonotonicApproachToMachineTranslationForSimilarLanguage.pdf)]
+**Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "A Purely Monotonic Approach to Machine Translation for Similar Languages", Proceedings of International Conference on Asian Language Processing 2013 (IALP 2013), August 17~19, 2013, Urumqi, China, pp. 107-110.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IALP2013/aPurelyMonotonicApproachToMachineTranslationForSimilarLanguage.pdf)]
 
 ### ICCA-2013
 
-Ye Kyaw Thu, Andrew Finch, Yoshinori Sagisaka and Eiichiro Sumita, "A Study of Myanmar Word Segmentation Schemes for Statistical Machine Translation", Proceedings of the 11th International Conference on Computer Applications (ICCA 2013), February 26~27, 2013, Yangon, Myanmar, pp. 167-179.[[paper](https://github.com/ye-kyaw-thu/papers/tree/master/ICCA2013)]
+**Ye Kyaw Thu**, Andrew Finch, Yoshinori Sagisaka and Eiichiro Sumita, "A Study of Myanmar Word Segmentation Schemes for Statistical Machine Translation", Proceedings of the 11th International Conference on Computer Applications (ICCA 2013), February 26~27, 2013, Yangon, Myanmar, pp. 167-179.[[paper](https://github.com/ye-kyaw-thu/papers/tree/master/ICCA2013)]
 
 ### SNLP-2013
 
-Ye Kyaw Thu, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "Unsupervised and Semi-supervised Myanmar Word Segmentation Approaches for Statistical Machine Translation", Proceedings of the Tenth Symposium on Natural Language Processing (SNLP 2013), October 28~30, 2013, Phuket, Thailand, pp. 47-54.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/SNLP-2013/snlp.bayesSegment.pdf)](Special Award, Emerging)
+**Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "Unsupervised and Semi-supervised Myanmar Word Segmentation Approaches for Statistical Machine Translation", Proceedings of the Tenth Symposium on Natural Language Processing (SNLP 2013), October 28~30, 2013, Phuket, Thailand, pp. 47-54.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/SNLP-2013/snlp.bayesSegment.pdf)](Special Award, Emerging)
 
 ### IWSLT-2014
 
-Chenchen Ding, Ye Kyaw Thu, Masao Utiyama, Andrew Finch, Eiichiro Sumita, "Empirical Dependency-Based Head Finalization for Statistical Chinese-, English-, and French-to-Myanmar (Burmese) Machine Translation", Proceedings of the 11th International Workshop on Spoken Language Translation (IWSLT 2014), December 4~5, 2014, Lake Tahoe, USA, pp.184-191.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IWSLT2014/IWSLT2014.pdf)]
+Chenchen Ding, **Ye Kyaw Thu**, Masao Utiyama, Andrew Finch, Eiichiro Sumita, "Empirical Dependency-Based Head Finalization for Statistical Chinese-, English-, and French-to-Myanmar (Burmese) Machine Translation", Proceedings of the 11th International Workshop on Spoken Language Translation (IWSLT 2014), December 4~5, 2014, Lake Tahoe, USA, pp.184-191.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IWSLT2014/IWSLT2014.pdf)]
 
 ### ICCA-2015
 
-Ye Kyaw Thu, Win Pa Pa, Andrew Finch, Aye Mya Hlaing, Hay Mar Soe Naing, Eiichiro Sumita and Chiori Hori, "Syllable Pronunciation Features for Myanmar Grapheme to Phoneme Conversion", In Proceedings of the 13th International Conference on Computer Applications (ICCA 2015), February 5~6, 2015, Yangon, Myanmar, pp. 161-167. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2015/g2p-revised.pdf)] [Best Paper Award]
+**Ye Kyaw Thu**, Win Pa Pa, Andrew Finch, Aye Mya Hlaing, Hay Mar Soe Naing, Eiichiro Sumita and Chiori Hori, "Syllable Pronunciation Features for Myanmar Grapheme to Phoneme Conversion", In Proceedings of the 13th International Conference on Computer Applications (ICCA 2015), February 5~6, 2015, Yangon, Myanmar, pp. 161-167. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2015/g2p-revised.pdf)] [Best Paper Award]
 
 ### ICGEC-2015
 
-Win Pa Pa, Ye Kyaw Thu, Andrew Finch, Eiichiro Sumita, "Word Boundary Identification for Myanmar Text Using Conditional Random Fields", In Proceedings of the Ninth International Conference on Genetic and Evolutionary Computing, August 26-28, 2015, Yangon, Myanmar, pp. 447-456.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICGEC2015/typeinst.pdf)]
+Win Pa Pa, **Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, "Word Boundary Identification for Myanmar Text Using Conditional Random Fields", In Proceedings of the Ninth International Conference on Genetic and Evolutionary Computing, August 26-28, 2015, Yangon, Myanmar, pp. 447-456.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICGEC2015/typeinst.pdf)]
 
 ### AROB-2017
 
