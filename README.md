@@ -24,7 +24,7 @@ Chenchen Ding, Ye Kyaw Thu, Masao Utiyama, Andrew Finch, Eiichiro Sumita, "Empir
 
 ### ICCA-2015
 
-Ye Kyaw Thu, Win Pa Pa, Andrew Finch, Aye Mya Hlaing, Hay Mar Soe Naing, Eiichiro Sumita and Chiori Hori, "Syllable Pronunciation Features for Myanmar Grapheme to Phoneme Conversion", In Proceedings of the 13th International Conference on Computer Applications (ICCA 2015), February 5~6, 2015, Yangon, Myanmar, pp. 161-167. [[paper]()] [Best Paper Award]
+Ye Kyaw Thu, Win Pa Pa, Andrew Finch, Aye Mya Hlaing, Hay Mar Soe Naing, Eiichiro Sumita and Chiori Hori, "Syllable Pronunciation Features for Myanmar Grapheme to Phoneme Conversion", In Proceedings of the 13th International Conference on Computer Applications (ICCA 2015), February 5~6, 2015, Yangon, Myanmar, pp. 161-167. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2015/g2p-revised.pdf)] [Best Paper Award]
 
 ### AROB-2017
 
