@@ -4,7 +4,11 @@ Most of my papers, you can get them from my [Homepage](https://sites.google.com/
 
 ### 12th APRU Doctoral Students Conference, 2011
 
-Ye Kyaw Thu, "Software Assisting Tools in Teaching And Learning For Myanmar Students with Visual Disabilities (Research in Progress)", Proceedings of the 12th APRU Doctoral PhD Academy Students Conference, Beijing, China, July 4-7, 2011, (CD-ROM). [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/12th-APRU-Doctoral-Students-Conf/aprudsc12_submission_177.pdf)]  
+Ye Kyaw Thu, "Software Assisting Tools in Teaching And Learning For Myanmar Students with Visual Disabilities (Research in Progress)", Proceedings of the 12th APRU Doctoral PhD Academy Students Conference, Beijing, China, July 4-7, 2011, (CD-ROM). [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/12th-APRU-Doctoral-Students-Conf/aprudsc12_submission_177.pdf)]  I
+
+### IALP-2013
+
+Ye Kyaw Thu, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "A Purely Monotonic Approach to Machine Translation for Similar Languages", Proceedings of International Conference on Asian Language Processing 2013 (IALP 2013), August 17~19, 2013, Urumqi, China, pp. 107-110.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IALP2013/aPurelyMonotonicApproachToMachineTranslationForSimilarLanguage.pdf)]
 
 ### AROB-2017
 
