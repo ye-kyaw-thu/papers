@@ -10,6 +10,14 @@ Ye Kyaw Thu, "Software Assisting Tools in Teaching And Learning For Myanmar Stud
 
 Ye Kyaw Thu, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "A Purely Monotonic Approach to Machine Translation for Similar Languages", Proceedings of International Conference on Asian Language Processing 2013 (IALP 2013), August 17~19, 2013, Urumqi, China, pp. 107-110.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IALP2013/aPurelyMonotonicApproachToMachineTranslationForSimilarLanguage.pdf)]
 
+### ICCA-2013
+
+Ye Kyaw Thu, Andrew Finch, Yoshinori Sagisaka and Eiichiro Sumita, "A Study of Myanmar Word Segmentation Schemes for Statistical Machine Translation", Proceedings of the 11th International Conference on Computer Applications (ICCA 2013), February 26~27, 2013, Yangon, Myanmar, pp. 167-179.[[paper](https://github.com/ye-kyaw-thu/papers/tree/master/ICCA2013)]
+
+### IWSLT-2014
+
+Chenchen Ding, Ye Kyaw Thu, Masao Utiyama, Andrew Finch, Eiichiro Sumita, "Empirical Dependency-Based Head Finalization for Statistical Chinese-, English-, and French-to-Myanmar (Burmese) Machine Translation", Proceedings of the 11th International Workshop on Spoken Language Translation (IWSLT 2014), December 4~5, 2014, Lake Tahoe, USA, pp.184-191.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IWSLT2014/IWSLT2014.pdf)]
+
 ### AROB-2017
 
 Kenta Takabuchi, Naoto Iwahashi, **Ye Kyaw Thu**, Takeo Kunishima, "DNN-based object manipulation to syllable sequence for language acquisition", In Proceedings of the Twenty-Second International Symposium on Artificial Life and Robotics 2017 (AROB 22nd 2017), January 19-21, 2017, Beppu, Japan, pp. 638-642. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/AROB-2017/AROB-2017-paper.pdf)]
