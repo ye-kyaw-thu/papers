@@ -14,6 +14,10 @@ Ye Kyaw Thu, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "A Purely Monoto
 
 Ye Kyaw Thu, Andrew Finch, Yoshinori Sagisaka and Eiichiro Sumita, "A Study of Myanmar Word Segmentation Schemes for Statistical Machine Translation", Proceedings of the 11th International Conference on Computer Applications (ICCA 2013), February 26~27, 2013, Yangon, Myanmar, pp. 167-179.[[paper](https://github.com/ye-kyaw-thu/papers/tree/master/ICCA2013)]
 
+### SNLP-2013
+
+Ye Kyaw Thu, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "Unsupervised and Semi-supervised Myanmar Word Segmentation Approaches for Statistical Machine Translation", Proceedings of the Tenth Symposium on Natural Language Processing (SNLP 2013), October 28~30, 2013, Phuket, Thailand, pp. 47-54.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/SNLP-2013/snlp.bayesSegment.pdf)](Special Award, Emerging)
+
 ### IWSLT-2014
 
 Chenchen Ding, Ye Kyaw Thu, Masao Utiyama, Andrew Finch, Eiichiro Sumita, "Empirical Dependency-Based Head Finalization for Statistical Chinese-, English-, and French-to-Myanmar (Burmese) Machine Translation", Proceedings of the 11th International Workshop on Spoken Language Translation (IWSLT 2014), December 4~5, 2014, Lake Tahoe, USA, pp.184-191.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IWSLT2014/IWSLT2014.pdf)]
