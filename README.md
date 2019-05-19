@@ -28,7 +28,11 @@ Chenchen Ding, **Ye Kyaw Thu**, Masao Utiyama, Andrew Finch, Eiichiro Sumita, "E
 
 ### Interspeech2015
 
-Ye Kyaw Thu, Win Pa Pa, Jinfu Ni, Yoshinori Shiga, Andrew Finch, Chiori Hori, Hisashi Kawai, Eiichiro Sumita, "HMM Based Myanmar Text to Speech System", In Proceedings of the 16th Annual Conference of the International Speech Communication Association (INTERSPEECH 2015), September 6-10, 2015, Dresden, Germany, pp. 2237-2241. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/Interspeech2015/i15_2237.pdf)]
+**Ye Kyaw Thu**, Win Pa Pa, Jinfu Ni, Yoshinori Shiga, Andrew Finch, Chiori Hori, Hisashi Kawai, Eiichiro Sumita, "HMM Based Myanmar Text to Speech System", In Proceedings of the 16th Annual Conference of the International Speech Communication Association (INTERSPEECH 2015), September 6-10, 2015, Dresden, Germany, pp. 2237-2241. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/Interspeech2015/i15_2237.pdf)]
+
+### PACLIC-2015
+
+**Ye Kyaw Thu**, Vichet Chea, Andrew Finch, Masao Utiyama and Eiichiro Sumita, "A Large-scale Study of Statistical Machine Translation Methods for Khmer Language",  29th Pacific Asia Conference on Language, Information and Computation, October 30 - November 1, 2015, Shanghai, China, pp. 259-269.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/PACLIC-2015/khmersmt.pdf)]
 
 ### NAACL-2016
 
