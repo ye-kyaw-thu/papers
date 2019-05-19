@@ -26,6 +26,10 @@ Chenchen Ding, **Ye Kyaw Thu**, Masao Utiyama, Andrew Finch, Eiichiro Sumita, "E
 
 **Ye Kyaw Thu**, Win Pa Pa, Andrew Finch, Aye Mya Hlaing, Hay Mar Soe Naing, Eiichiro Sumita and Chiori Hori, "Syllable Pronunciation Features for Myanmar Grapheme to Phoneme Conversion", In Proceedings of the 13th International Conference on Computer Applications (ICCA 2015), February 5~6, 2015, Yangon, Myanmar, pp. 161-167. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2015/g2p-revised.pdf)] [Best Paper Award]
 
+### NAACL-2016
+
+Ye Kyaw Thu, Andrew Finch and Eiichiro Sumita, "Interlocking Phrases in Phrase-based Statistical Machine Translation", In Proceedings of the NAACL-HLT 2016, June 12-17, San Diego, US, pp. 1076-1081.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/NAACL-2016/N16-1124.pdf)]
+
 ### ICGEC-2015
 
 Win Pa Pa, **Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, "Word Boundary Identification for Myanmar Text Using Conditional Random Fields", In Proceedings of the Ninth International Conference on Genetic and Evolutionary Computing, August 26-28, 2015, Yangon, Myanmar, pp. 447-456.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICGEC2015/typeinst.pdf)]
