@@ -77,5 +77,5 @@ Aye Mya Hlaing, Win Pa Pa, **Ye Kyaw Thu**, "Enhancing Myanmar Speech Synthesis 
 
 Thazin Myint OO, Ye Kyaw Thu, Khin Mar Soe, Thepchai Supnithi, "Statistical Machine Translation between Myanmar (Burmese) and Dawei (Tavoyan)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_23.pdf)]
 
-Khaing Hsu Wai, Ye Kyaw Thu, Hnin Aye Thant, Thepchai Supnithi, "String Similarity Measures for Myanmar Language (Burmese)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_24.pdf)]
+Khaing Hsu Wai, Ye Kyaw Thu, Hnin Aye Thant, Swe Zin Moe, Thepchai Supnithi, "String Similarity Measures for Myanmar Language (Burmese)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_24.pdf)]
 
