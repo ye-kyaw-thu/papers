@@ -69,3 +69,6 @@ Ni Htwe Aung, **Ye Kyaw Thu**, Su Su Maung, "Feature Based Myanmar Fingerspellin
 Ou Ou Khin, **Ye Kyaw Thu**, Tadashi Sakata, Yoshinori Sagisaka, Yuichi Ueda, "Myanmar Speech Classification Using 
 Transfer Learning for Image Classification", In Proceedings of the 17th International Conference on Computer Applications (ICCA 2019), February 27 - March 1, 2019, Yangon, Myanmar [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)]  
 
+## SSW10, 2019
+
+Aye Mya Hlaing, Win Pa Pa, **Ye Kyaw Thu**, "Enhancing Myanmar Speech Synthesis with Linguistic Information and LSTM-RNN", In Proceedings of the 10th ISCA Speech Synthesis Workshop (SSW10), 20-22 September, 2019, Vienna, Austria [[Paper](https://www.isca-speech.org/archive/SSW_2019/pdfs/SSW10_O_5-1.pdf)]
