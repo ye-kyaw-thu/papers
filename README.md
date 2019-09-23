@@ -40,7 +40,7 @@ Win Pa Pa, **Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, "Word Boundary Identi
 
 ### NAACL-2016
 
-Ye Kyaw Thu, Andrew Finch and Eiichiro Sumita, "Interlocking Phrases in Phrase-based Statistical Machine Translation", In Proceedings of the NAACL-HLT 2016, June 12-17, San Diego, US, pp. 1076-1081.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/NAACL-2016/N16-1124.pdf)]
+**Ye Kyaw Thu**, Andrew Finch and Eiichiro Sumita, "Interlocking Phrases in Phrase-based Statistical Machine Translation", In Proceedings of the NAACL-HLT 2016, June 12-17, San Diego, US, pp. 1076-1081.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/NAACL-2016/N16-1124.pdf)]
 
 ### AROB-2017
 
@@ -69,13 +69,17 @@ Ni Htwe Aung, **Ye Kyaw Thu**, Su Su Maung, "Feature Based Myanmar Fingerspellin
 Ou Ou Khin, **Ye Kyaw Thu**, Tadashi Sakata, Yoshinori Sagisaka, Yuichi Ueda, "Myanmar Speech Classification Using 
 Transfer Learning for Image Classification", In Proceedings of the 17th International Conference on Computer Applications (ICCA 2019), February 27 - March 1, 2019, Yangon, Myanmar [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)]  
 
+## VarDial2019
+
+Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe, "Neural Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese)", In Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects, June 7th 2019, Minneapolis, United States, pp. 80-88 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/VarDial2019/W19-1408.pdf)]
+
 ## SSW10, 2019
 
-Aye Mya Hlaing, Win Pa Pa, **Ye Kyaw Thu**, "Enhancing Myanmar Speech Synthesis with Linguistic Information and LSTM-RNN", In Proceedings of the 10th ISCA Speech Synthesis Workshop (SSW10), 20-22 September, 2019, Vienna, Austria [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/SSW10/SSW10_O_5-1.pdf)]
+Aye Mya Hlaing, Win Pa Pa, **Ye Kyaw Thu**, "Enhancing Myanmar Speech Synthesis with Linguistic Information and LSTM-RNN", In Proceedings of the 10th ISCA Speech Synthesis Workshop (SSW10), 20-22 September, 2019, Vienna, Austria [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/SSW10/SSW10_O_5-1.pdf)]  
 
 ## NSURL 2019
 
-Thazin Myint OO, Ye Kyaw Thu, Khin Mar Soe, Thepchai Supnithi, "Statistical Machine Translation between Myanmar (Burmese) and Dawei (Tavoyan)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_23.pdf)]
+Thazin Myint OO, **Ye Kyaw Thu**, Khin Mar Soe, Thepchai Supnithi, "Statistical Machine Translation between Myanmar (Burmese) and Dawei (Tavoyan)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_23.pdf)]  
 
-Khaing Hsu Wai, Ye Kyaw Thu, Hnin Aye Thant, Swe Zin Moe, Thepchai Supnithi, "String Similarity Measures for Myanmar Language (Burmese)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_24.pdf)]
+Khaing Hsu Wai, **Ye Kyaw Thu**, Hnin Aye Thant, Swe Zin Moe, Thepchai Supnithi, "String Similarity Measures for Myanmar Language (Burmese)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_24.pdf)]  
 
