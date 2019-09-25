@@ -38,6 +38,10 @@ Win Pa Pa, **Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, "Word Boundary Identi
 
 **Ye Kyaw Thu**, Vichet Chea, Andrew Finch, Masao Utiyama and Eiichiro Sumita, "A Large-scale Study of Statistical Machine Translation Methods for Khmer Language",  29th Pacific Asia Conference on Language, Information and Computation, October 30 - November 1, 2015, Shanghai, China, pp. 259-269.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/PACLIC-2015/khmersmt.pdf)]
 
+### SLTU-2016
+
+Win Pa Pa, **Ye Kyaw Thu**, Andrew Finch and Eiichiro Sumita, "A Study of Statistical Machine Translation Methods for Under Resourced Languages", 5th Workshop on Spoken Language Technologies for Under-resourced Languages (SLTU Workshop), 09-12 May, 2016, Yogyakarta, Indonesia, Procedia Computer Science, Volume 81, 2016, pp. 250–257. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/SLTU2016/Ye-SLTU2016-paper.pdf)]
+
 ### NAACL-2016
 
 **Ye Kyaw Thu**, Andrew Finch and Eiichiro Sumita, "Interlocking Phrases in Phrase-based Statistical Machine Translation", In Proceedings of the NAACL-HLT 2016, June 12-17, San Diego, US, pp. 1076-1081.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/NAACL-2016/N16-1124.pdf)]
