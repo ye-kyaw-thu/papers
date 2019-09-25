@@ -77,13 +77,13 @@ Transfer Learning for Image Classification", In Proceedings of the 17th Internat
 
 Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe, "Neural Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese)", In Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects, June 7th 2019, Minneapolis, United States, pp. 80-88 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/VarDial2019/W19-1408.pdf)]
 
-## SSW10, 2019
-
-Aye Mya Hlaing, Win Pa Pa, **Ye Kyaw Thu**, "Enhancing Myanmar Speech Synthesis with Linguistic Information and LSTM-RNN", In Proceedings of the 10th ISCA Speech Synthesis Workshop (SSW10), 20-22 September, 2019, Vienna, Austria [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/SSW10/SSW10_O_5-1.pdf)]  
-
 ## NSURL 2019
 
 Thazin Myint OO, **Ye Kyaw Thu**, Khin Mar Soe, Thepchai Supnithi, "Statistical Machine Translation between Myanmar (Burmese) and Dawei (Tavoyan)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_23.pdf)]  
 
 Khaing Hsu Wai, **Ye Kyaw Thu**, Hnin Aye Thant, Swe Zin Moe, Thepchai Supnithi, "String Similarity Measures for Myanmar Language (Burmese)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_24.pdf)]  
+
+## SSW10, 2019
+
+Aye Mya Hlaing, Win Pa Pa, **Ye Kyaw Thu**, "Enhancing Myanmar Speech Synthesis with Linguistic Information and LSTM-RNN", In Proceedings of the 10th ISCA Speech Synthesis Workshop (SSW10), 20-22 September, 2019, Vienna, Austria [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/SSW10/SSW10_O_5-1.pdf)]  
 
