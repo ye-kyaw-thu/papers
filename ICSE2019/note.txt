@@ -1,4 +1,4 @@
 Keeping two PDF files:
 
 1. rule-based-Myanmar-chatbot.pdf (Proceeding version, image PDF)
-2. 
+2. paper_v8_edit.pdf (camera-ready version, text PDF)
