@@ -87,3 +87,8 @@ Khaing Hsu Wai, **Ye Kyaw Thu**, Hnin Aye Thant, Swe Zin Moe, Thepchai Supnithi,
 
 Aye Mya Hlaing, Win Pa Pa, **Ye Kyaw Thu**, "Enhancing Myanmar Speech Synthesis with Linguistic Information and LSTM-RNN", In Proceedings of the 10th ISCA Speech Synthesis Workshop (SSW10), 20-22 September, 2019, Vienna, Austria [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/SSW10/SSW10_O_5-1.pdf)]  
 
+## ICFCC, 2020
+
+Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe and Thepchai Supnithi, "Statistical Machine Translation between Myanmar and Myeik", In Proceedings of the 12th International Conference on Future Computer and Communication (ICFCC 2020), Feb 26-28, 2020, Yangon, Myanmar, pp. 36-45 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICFCC2020/07.pdf)]  
+
+
