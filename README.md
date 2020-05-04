@@ -1,6 +1,7 @@
 # Some papers
 I plan to keep some published papers here.  
 Most of my papers, you can get them from my [Homepage](https://sites.google.com/site/yekyawthunlp/).  
+(Browser ကနေ စာတမ်းတွေကို loading လုပ်တာ ကြာနေရင် download လုပ်ပြီးဖတ်ပါ။ အဲဒါက ပိုမြန်ပါတယ်။)  
 
 ### 12th APRU Doctoral Students Conference, 2011
 
