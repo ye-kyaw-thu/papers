@@ -90,7 +90,7 @@ Aye Mya Hlaing, Win Pa Pa, **Ye Kyaw Thu**, "Enhancing Myanmar Speech Synthesis 
 
 ## IJNLC, 2019
 
-Aye Nyein Mon, Win Pa Pa, **Ye Kyaw Thu**, "Impriving Myanmar Automatic Speech Recognition with Optimization of Convolutional Neural Network Parameters", International Journal on Natural Language Computing (IJNLC), Vol 7, No 6, December, 2018 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/IJNLC/7618ijnlc01.pdf)]
+Aye Nyein Mon, Win Pa Pa, **Ye Kyaw Thu**, "Improving Myanmar Automatic Speech Recognition with Optimization of Convolutional Neural Network Parameters", International Journal on Natural Language Computing (IJNLC), Vol 7, No 6, December, 2018 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/IJNLC/7618ijnlc01.pdf)]
 
 ## IJECE, 2019
 
