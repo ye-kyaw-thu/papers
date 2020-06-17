@@ -55,53 +55,56 @@ Kenta Takabuchi, Naoto Iwahashi, **Ye Kyaw Thu**, Takeo Kunishima, "DNN-based ob
 
 Aye Mya Hlaing, Win Pa Pa and **Ye Kyaw Thu**, "Myanmar Number Normalization for Text-to-Speech", In Proceedings of PACLING 2017, August 16-18, 2017, Yangon, Myanmar, pp. 346-356. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/PACLING2017/myanmarNumberNormalizationForText-to-Speech.pdf)]  
 
-## ICCA2018
+### HAI 2017
+
+**Ye Kyaw Thu**, Takuya Ishida, Naoto Iwahashi, Tomoaki Nakamura and Takayuki Nagai, "Symbol Grounding from Natural Conversation for Human-Robot Communication", In Proceedings of the 5th International Conference on Human-Agent Interaction (HAI 2017), October 17-20, 2017, CITEC, Bielefeld, Germany, pp. 415-419.[[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/3125739.3132611.pdf)], [[Poster](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/hai2017-poster.pdf)]
+
+### ICCA2018
 
 Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe, Statistical Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese), In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 304-311, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2018/16050.camrea-ready.pdf)].  
 
-## SLTU-2018
+### SLTU-2018
 
 Aye Mya Hlaing, Win Pa Pa and **Ye Kyaw Thu**, "DNN-based Myanmar Speech Synthesis", In Proceedings of the 6th Workshop on Spoken Language Technologies for Under-resourced Languages ([SLTU Workshop](http://www.mica.edu.vn/sltu2018/index.php)), 29-31 Aug, 2018, Gurugram, India, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/SLTU-18/DNN-basedMyanmarSpeechSynthesis_SLTU18.pdf)]
 
-## ONA-2018  
+### ONA-2018  
 
 Swe Zin Moe, **Ye Kyaw Thu**, Hnin Aye Thant and Nandar Win Min, "Neural Machine Translation between Myanmar Sign Language and Myanmar Written Text", In the second Regional Conference on Optical character recognition and Natural language processing technologies for ASEAN languages 2018 ([ONA 2018](http://ona.niptict.edu.kh/)), December 13-14, 2018, Phnom Penh, Cambodia, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ONA2018/NMTbetweenMSLandMWT.pdf)]  
 
-## ICCA2019
+### ICCA2019
 
 Ni Htwe Aung, **Ye Kyaw Thu**, Su Su Maung, "Feature Based Myanmar Fingerspelling Image Classification Using SIFT, SURF and BRIEF", In Proceedings of the 17th International Conference on Computer Applications (ICCA 2019), February 27 - March 1, 2019, Yangon, Myanmar [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/paper_for_upload_1.pdf)]  
 
 Ou Ou Khin, **Ye Kyaw Thu**, Tadashi Sakata, Yoshinori Sagisaka, Yuichi Ueda, "Myanmar Speech Classification Using 
 Transfer Learning for Image Classification", In Proceedings of the 17th International Conference on Computer Applications (ICCA 2019), February 27 - March 1, 2019, Yangon, Myanmar [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)]  
 
-## VarDial2019
+### VarDial2019
 
 Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe, "Neural Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese)", In Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects, June 7th 2019, Minneapolis, United States, pp. 80-88 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/VarDial2019/W19-1408.pdf)]
 
-## NSURL 2019
+### NSURL 2019
 
 Thazin Myint OO, **Ye Kyaw Thu**, Khin Mar Soe, Thepchai Supnithi, "Statistical Machine Translation between Myanmar (Burmese) and Dawei (Tavoyan)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_23.pdf)]  
-
 Khaing Hsu Wai, **Ye Kyaw Thu**, Hnin Aye Thant, Swe Zin Moe, Thepchai Supnithi, "String Similarity Measures for Myanmar Language (Burmese)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_24.pdf)]  
 
-## SSW10, 2019
+### SSW10, 2019
 
 Aye Mya Hlaing, Win Pa Pa, **Ye Kyaw Thu**, "Enhancing Myanmar Speech Synthesis with Linguistic Information and LSTM-RNN", In Proceedings of the 10th ISCA Speech Synthesis Workshop (SSW10), 20-22 September, 2019, Vienna, Austria [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/SSW10/SSW10_O_5-1.pdf)]  
 
-## IJNLC, 2019
+### IJNLC, 2019
 
 Aye Nyein Mon, Win Pa Pa, **Ye Kyaw Thu**, "Improving Myanmar Automatic Speech Recognition with Optimization of Convolutional Neural Network Parameters", International Journal on Natural Language Computing (IJNLC), Vol 7, No 6, December, 2018 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/IJNLC/7618ijnlc01.pdf)]
 
-## IJECE, 2019
+### IJECE, 2019
 
 Aye Nyein Mon, Win Pa Pa, **Ye Kyaw Thu**, "UCSY-SC1: A Myanmar speech corpus for automatic speech recognition", International Journal of Electrical and Computer Engineering (IJECE), Vol. 9, No. 4, August 2019, pp. 3194 3202, ISSN: 2088-8708  [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/IJECE-2019/UCSY-SC1-IJECE2019.pdf)] 
 
 
-## ICFCC, 2020
+### ICFCC, 2020
 
 Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe and Thepchai Supnithi, "Statistical Machine Translation between Myanmar and Myeik", In Proceedings of the 12th International Conference on Future Computer and Communication (ICFCC 2020), Feb 26-28, 2020, Yangon, Myanmar, pp. 36-45 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICFCC2020/07.pdf)]  
 
-## JIIST Vol.4, April 2020
+### JIIST Vol.4, April 2020
 
 Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe, Thepchai Supnithi, "Statistical Machine Translation of Myanmar Dialects", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (Submitted December 21, 2019; accepted March 6, 2020; revised March 18, 2020; published online April 30, 2020) [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.3.my-dialects.pdf)]  
 
@@ -114,4 +117,3 @@ Hlaing Myat Nwe, **Ye Kyaw Thu**, Hnin Aye Thant, "Myanmar SignWriting Keyboard 
 Swe Zin Moe, **Ye Kyaw Thu**, Hnin Aye Thant, Nandar Win Min, and Thepchai Supnithi, "Unsupervised Neural Machine Translation between Myanmar Sign Language and Myanmar Language", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (Submitted December 21, 2019; accepted March 6, 2020; revised March 16, 2020; published online April 30, 2020) [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.7.unmt-mysl-camready.pdf)]  
 
 Zar Zar Linn, **Ye Kyaw Thu**, Pushpa B. Patil, "Statistical Machine Translation between Myanmar (Burmese) and Kayah Languages", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (submitted December 21, 2019; accepted March 6, 2020; revised April 23, 2020; published online April 30, 2020) [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.8.myky-smt-camready.pdf)]  
-
