@@ -118,3 +118,7 @@ Hlaing Myat Nwe, **Ye Kyaw Thu**, Hnin Aye Thant, "Myanmar SignWriting Keyboard 
 Swe Zin Moe, **Ye Kyaw Thu**, Hnin Aye Thant, Nandar Win Min, and Thepchai Supnithi, "Unsupervised Neural Machine Translation between Myanmar Sign Language and Myanmar Language", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (Submitted December 21, 2019; accepted March 6, 2020; revised March 16, 2020; published online April 30, 2020) [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.7.unmt-mysl-camready.pdf)]  
 
 Zar Zar Linn, **Ye Kyaw Thu**, Pushpa B. Patil, "Statistical Machine Translation between Myanmar (Burmese) and Kayah Languages", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (submitted December 21, 2019; accepted March 6, 2020; revised April 23, 2020; published online April 30, 2020) [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.8.myky-smt-camready.pdf)]  
+
+### ECTI-CON, 2020
+
+Wint Theingi Zaw, Shwe Sin Moe, Ye Kyaw Thu, Nyein Nyein Oo, "Applying Weighted Finite State Transducers and Ripple Down Rules for Myanmar Name Romanization", In Proceedings of the 17th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON 2020), June 24-27, 2020, Virtual Conference Hosted by College of Computing, Prince of Songkla University, Thailand. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ECTI-CON2020/PID6499733.pdf)]
