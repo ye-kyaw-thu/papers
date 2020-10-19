@@ -55,6 +55,8 @@ Kenta Takabuchi, Naoto Iwahashi, **Ye Kyaw Thu**, Takeo Kunishima, "DNN-based ob
 
 Aye Mya Hlaing, Win Pa Pa and **Ye Kyaw Thu**, "Myanmar Number Normalization for Text-to-Speech", In Proceedings of PACLING 2017, August 16-18, 2017, Yangon, Myanmar, pp. 346-356. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/PACLING2017/myanmarNumberNormalizationForText-to-Speech.pdf)]  
 
+Aye Nyein Mon, Win Pa Pa and **Ye Kyaw Thu**, "Exploring the Effect of Tones for Myanmar Language Speech Recognition Using Convolutional Neural Network (CNN)", In Proceedings of PACLING 2017, August 16-18, 2017, Yangon, Myanmar, pp. 334-345. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/PACLING2017/UpdatedFinalVersion_PaperID_31.pdf)]  
+
 ### HAI 2017
 
 **Ye Kyaw Thu**, Takuya Ishida, Naoto Iwahashi, Tomoaki Nakamura and Takayuki Nagai, "Symbol Grounding from Natural Conversation for Human-Robot Communication", In Proceedings of the 5th International Conference on Human-Agent Interaction (HAI 2017), October 17-20, 2017, CITEC, Bielefeld, Germany, pp. 415-419.[[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/3125739.3132611.pdf)], [[Poster](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/hai2017-poster.pdf)]
