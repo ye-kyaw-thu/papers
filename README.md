@@ -65,6 +65,10 @@ Aye Nyein Mon, Win Pa Pa and **Ye Kyaw Thu**, "Exploring the Effect of Tones for
 
 Aye Nyein Mon, Win Pa Pa, **Ye Kyaw Thu** and Yoshinori Sagisaka, "Developing a Speech Corpus from Web News for Myanmar (Burmese) Language", In Proceedings of the The 20th Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2017), November 1-3, 2017, Seoul National University Hoam Faculty House, Convention center, Seoul, R.O. Korea, pp. 75-80, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/O-COCOSDA-2017/anm-O-COCOSDA2017.pdf)]  
 
+### ICCA2017
+
+Aye Nyein Mon, Win Pa Pa and **Ye Kyaw Thu**, "Building Myanmar Continuous Automatic Speech Recognition on Web News", In Proceedings of ICCA2017, February 16-17, 2017, Yangon, Myanmar, pp. 446-453, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2017/CameraReadyPaperByAyeNyeinMon.pdf)].  
+
 ### ICCA2018
 
 Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe, Statistical Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese), In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 304-311, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2018/16050.camrea-ready.pdf)].  
