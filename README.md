@@ -51,6 +51,10 @@ Win Pa Pa, **Ye Kyaw Thu**, Andrew Finch and Eiichiro Sumita, "A Study of Statis
 
 Kenta Takabuchi, Naoto Iwahashi, **Ye Kyaw Thu**, Takeo Kunishima, "DNN-based object manipulation to syllable sequence for language acquisition", In Proceedings of the Twenty-Second International Symposium on Artificial Life and Robotics 2017 (AROB 22nd 2017), January 19-21, 2017, Beppu, Japan, pp. 638-642. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/AROB-2017/AROB-2017-paper.pdf)]
 
+### ICCA2017
+
+Aye Nyein Mon, Win Pa Pa and **Ye Kyaw Thu**, "Building Myanmar Continuous Automatic Speech Recognition on Web News", In Proceedings of ICCA2017, February 16-17, 2017, Yangon, Myanmar, pp. 446-453, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2017/CameraReadyPaperByAyeNyeinMon.pdf)].  
+
 ### PACLING 2017
 
 Aye Mya Hlaing, Win Pa Pa and **Ye Kyaw Thu**, "Myanmar Number Normalization for Text-to-Speech", In Proceedings of PACLING 2017, August 16-18, 2017, Yangon, Myanmar, pp. 346-356. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/PACLING2017/myanmarNumberNormalizationForText-to-Speech.pdf)]  
@@ -64,10 +68,6 @@ Aye Nyein Mon, Win Pa Pa and **Ye Kyaw Thu**, "Exploring the Effect of Tones for
 ### O-COCOSDA 2017
 
 Aye Nyein Mon, Win Pa Pa, **Ye Kyaw Thu** and Yoshinori Sagisaka, "Developing a Speech Corpus from Web News for Myanmar (Burmese) Language", In Proceedings of the The 20th Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2017), November 1-3, 2017, Seoul National University Hoam Faculty House, Convention center, Seoul, R.O. Korea, pp. 75-80, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/O-COCOSDA-2017/anm-O-COCOSDA2017.pdf)]  
-
-### ICCA2017
-
-Aye Nyein Mon, Win Pa Pa and **Ye Kyaw Thu**, "Building Myanmar Continuous Automatic Speech Recognition on Web News", In Proceedings of ICCA2017, February 16-17, 2017, Yangon, Myanmar, pp. 446-453, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2017/CameraReadyPaperByAyeNyeinMon.pdf)].  
 
 ### ICCA2018
 
