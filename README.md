@@ -59,7 +59,9 @@ Aye Nyein Mon, Win Pa Pa and **Ye Kyaw Thu**, "Exploring the Effect of Tones for
 
 ### HAI 2017
 
-**Ye Kyaw Thu**, Takuya Ishida, Naoto Iwahashi, Tomoaki Nakamura and Takayuki Nagai, "Symbol Grounding from Natural Conversation for Human-Robot Communication", In Proceedings of the 5th International Conference on Human-Agent Interaction (HAI 2017), October 17-20, 2017, CITEC, Bielefeld, Germany, pp. 415-419.[[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/3125739.3132611.pdf)], [[Poster](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/hai2017-poster.pdf)]
+**Ye Kyaw Thu**, Takuya Ishida, Naoto Iwahashi, Tomoaki Nakamura and Takayuki Nagai, "Symbol Grounding from Natural Conversation for Human-Robot Communication", In Proceedings of the 5th International Conference on Human-Agent Interaction (HAI 2017), October 17-20, 2017, CITEC, Bielefeld, Germany, pp. 415-419.[[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/3125739.3132611.pdf)], [[Poster](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/hai2017-poster.pdf)]  
+
+Aye Nyein Mon, Win Pa Pa, **Ye Kyaw Thu** and Yoshinori Sagisaka, "Developing a Speech Corpus from Web News for Myanmar (Burmese) Language", In Proceedings of the The 20th Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2017), November 1-3, 2017, Seoul National University Hoam Faculty House, Convention center, Seoul, R.O. Korea, pp. 75-80, [[Paper]()]  
 
 ### ICCA2018
 
