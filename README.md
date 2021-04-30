@@ -132,3 +132,11 @@ Zar Zar Linn, **Ye Kyaw Thu**, Pushpa B. Patil, "Statistical Machine Translation
 ### ECTI-CON, 2020
 
 Wint Theingi Zaw, Shwe Sin Moe, **Ye Kyaw Thu**, Nyein Nyein Oo, "Applying Weighted Finite State Transducers and Ripple Down Rules for Myanmar Name Romanization", In Proceedings of the 17th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON 2020), June 24-27, 2020, Virtual Conference Hosted by College of Computing, Prince of Songkla University, Thailand, pp. 143-148 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ECTI-CON2020/PID6499733.pdf)]
+
+### JIIST Vol.5, April 2021
+
+Zun Hlaing Moe, Thida San, Ei Thandar Phyu, Hlaing Myat Nwe, Hnin Aye Thant, Naw Naw, Htet Ne Oo, Thepchai Supnithi, **Ye Kyaw Thu**, "Myanmar Text (Burmese) and Braille (Mu Thit) Machine Translation Applying IBM Model 1 and 2",  Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2021, pp. 18-26. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2021/Myanmar-Muthit-Braille-IBM-1-2-JIIST-Vol5-April-2021.pdf)]  
+
+Honey Htun, Ni Htwe Aung, Shwe Sin Moe, Wint Theingi Zaw, Nyein Nyein Oo, Thepchai Supnithi, **Ye Kyaw Thu**, "Grapheme-to-IPA Phoneme Conversion for Burmese (myG2P Version 2.0)", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2021, pp. 7-17. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2021/g2IPA-JIIST-Vol5-April-2021.pdf)], [[myG2P Corpus Version 2.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver2)]  
+
+Hnin Yu Hlaing, **Ye Kyaw Thu**, Hlaing Myat Nwe, Hnin Aye Thant, Htet Ne Oo, Thepchai Supnithi, Aung Win, "Grapheme to Syllable Sequence Phoneme Conversion for Burmese Spelling TTS", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2021, pp. 27-35. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2021/g2syl-seq-conversion-JIIST-Vol5-April-2021.pdf)]  
