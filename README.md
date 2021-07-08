@@ -133,6 +133,12 @@ Zar Zar Linn, **Ye Kyaw Thu**, Pushpa B. Patil, "Statistical Machine Translation
 
 Wint Theingi Zaw, Shwe Sin Moe, **Ye Kyaw Thu**, Nyein Nyein Oo, "Applying Weighted Finite State Transducers and Ripple Down Rules for Myanmar Name Romanization", In Proceedings of the 17th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON 2020), June 24-27, 2020, Virtual Conference Hosted by College of Computing, Prince of Songkla University, Thailand, pp. 143-148 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ECTI-CON2020/PID6499733.pdf)]
 
+### O-COCOSDA, 2020
+
+Hnin Yi Aye, Yuzana Win, Ye Kyaw Thu, "Statistical Machine Translation between Myanmar (Burmese) and Chin (Mizo) Language", In Proceedings of The 23rd Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2020), Nov 5-7 2020, Yangon, Myanmar, pp. 211-216.[[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/O-COCOSDA-2020/O-COCOSDA_2020_paper_37.pdf)  
+
+Shwe Sin Moe, Ye Kyaw Thu, Wint Theingi Zaw, Ni Htwe Aung, Nyein Nyein Oo, Thepchai Supnithi, "The State-of-the-Art Phonemic and Syllable Unit Transcriptions for Myanmar Names", In Proceedings of The 23rd Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2020), Nov 5-7 2020, Yangon, Myanmar, pp. 204-210. [[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/O-COCOSDA-2020/O-COCOSDA_2020_paper_39.pdf)  
+
 ### JIIST Vol.5, April 2021
 
 Zun Hlaing Moe, Thida San, Ei Thandar Phyu, Hlaing Myat Nwe, Hnin Aye Thant, Naw Naw, Htet Ne Oo, Thepchai Supnithi, **Ye Kyaw Thu**, "Myanmar Text (Burmese) and Braille (Mu Thit) Machine Translation Applying IBM Model 1 and 2",  Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2021, pp. 18-26. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2021/Myanmar-Muthit-Braille-IBM-1-2-JIIST-Vol5-April-2021.pdf)]  
