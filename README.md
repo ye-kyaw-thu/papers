@@ -141,8 +141,14 @@ Shwe Sin Moe, Ye Kyaw Thu, Wint Theingi Zaw, Ni Htwe Aung, Nyein Nyein Oo, Thepc
 
 ### JIIST Vol.5, April 2021
 
-Zun Hlaing Moe, Thida San, Ei Thandar Phyu, Hlaing Myat Nwe, Hnin Aye Thant, Naw Naw, Htet Ne Oo, Thepchai Supnithi, **Ye Kyaw Thu**, "Myanmar Text (Burmese) and Braille (Mu Thit) Machine Translation Applying IBM Model 1 and 2",  Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2021, pp. 18-26. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2021/Myanmar-Muthit-Braille-IBM-1-2-JIIST-Vol5-April-2021.pdf)]  
+Zun Hlaing Moe, Thida San, Ei Thandar Phyu, Hlaing Myat Nwe, Hnin Aye Thant, Naw Naw, Htet Ne Oo, Thepchai Supnithi, **Ye Kyaw Thu**, "Myanmar Text (Burmese) and Braille (Mu Thit) Machine Translation Applying IBM Model 1 and 2",  Journal of Intelligent Informatics and Smart Technology, April Issue, 2021, pp. 18-26. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2021/Myanmar-Muthit-Braille-IBM-1-2-JIIST-Vol5-April-2021.pdf)]  
 
-Honey Htun, Ni Htwe Aung, Shwe Sin Moe, Wint Theingi Zaw, Nyein Nyein Oo, Thepchai Supnithi, **Ye Kyaw Thu**, "Grapheme-to-IPA Phoneme Conversion for Burmese (myG2P Version 2.0)", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2021, pp. 7-17. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2021/g2IPA-JIIST-Vol5-April-2021.pdf)], [[myG2P Corpus Version 2.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver2)]  
+Honey Htun, Ni Htwe Aung, Shwe Sin Moe, Wint Theingi Zaw, Nyein Nyein Oo, Thepchai Supnithi, **Ye Kyaw Thu**, "Grapheme-to-IPA Phoneme Conversion for Burmese (myG2P Version 2.0)", Journal of Intelligent Informatics and Smart Technology, April Issue, 2021, pp. 7-17. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2021/g2IPA-JIIST-Vol5-April-2021.pdf)], [[myG2P Corpus Version 2.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver2)]  
 
-Hnin Yu Hlaing, **Ye Kyaw Thu**, Hlaing Myat Nwe, Hnin Aye Thant, Htet Ne Oo, Thepchai Supnithi, Aung Win, "Grapheme to Syllable Sequence Phoneme Conversion for Burmese Spelling TTS", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2021, pp. 27-35. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2021/g2syl-seq-conversion-JIIST-Vol5-April-2021.pdf)]  
+Hnin Yu Hlaing, **Ye Kyaw Thu**, Hlaing Myat Nwe, Hnin Aye Thant, Htet Ne Oo, Thepchai Supnithi, Aung Win, "Grapheme to Syllable Sequence Phoneme Conversion for Burmese Spelling TTS", Journal of Intelligent Informatics and Smart Technology, April Issue, 2021, pp. 27-35. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2021/g2syl-seq-conversion-JIIST-Vol5-April-2021.pdf)]  
+
+### JIIST Vol. 6, October 2021
+
+Hay Man Htun, Ye Kyaw Thu, Hlaing Myat Nwe, May Thu Win, Naw Naw, "Statistical Machine Translation System Combinations on Phrase-based, Hierarchical Phrase-based and Operation Sequence Model for Burmese and Pa’O Language Pair", Journal of Intelligent Informatics and Smart Technology, October Issue, 2021, pp. 1-9. [[Paper](https://jiist.aiat.or.th/assets/uploads/16358532509174mWmk1635597606360zVL7vbare_jrnl.pdf)]
+
+Cho Zin Oo, Ye Kyaw Thu, Hlaing Myat Nwe, Hnin Aye Thant, "Question Classification for Automatic Question-Answering in Agriculture Domain", Journal of Intelligent Informatics and Smart Technology, October Issue, 2021, pp. 10-18. [[Paper](https://jiist.aiat.or.th/assets/uploads/16358531678571fGUM1635597555523j34iwques_ans.pdf)]  
