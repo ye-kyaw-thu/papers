@@ -7,6 +7,10 @@ Most of my papers, you can get them from my [Homepage](https://sites.google.com/
 
 **Ye Kyaw Thu**, Sai Aung Win Maung and Yoshiyori URANO, "Direct Keyboard Mapping (DKM) Layout for Myanmar Fingerspelling Text Input (Study with Developed Fingerspelling Font "mmfingerspelling.ttf")", GITS/GITI Research Bulletin 2009-2010, Waseda University, pp. 127-135.  (published on July 31, 2010). [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/GITS-GITI-Research-Bulletin_2009-2010/127_135_Ye%20Kyaw%20Thu%2C%20Sai%20Aung%20Win%20Maung%20and%20Yoshiyori%20Urano.pdf)]
 
+### IIEEJ Vol.39 No.5, 2010
+
+**Ye Kyaw Thu** and Yoshiyori URANO, "PP_Clickwheel: Positional Prediction Khmer Text Input Interface with Clickwheel for Small Mobile Devices", The Journal of the Institute of Image Electronics Engineers of Japan (IIEEJ), Vol.39, No.5, 2010, pp. 654-662. (published on September, 2010). [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IIEEJ-vol-39-no-5-2010/39_654-IIEEJ-vol-39-no-5-2010.pdf)]
+
 ### 12th APRU Doctoral Students Conference, 2011
 
 **Ye Kyaw Thu**, "Software Assisting Tools in Teaching And Learning For Myanmar Students with Visual Disabilities (Research in Progress)", Proceedings of the 12th APRU Doctoral PhD Academy Students Conference, Beijing, China, July 4-7, 2011, (CD-ROM). [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/12th-APRU-Doctoral-Students-Conf/aprudsc12_submission_177.pdf)]
