@@ -3,7 +3,7 @@ I plan to keep some published papers here.
 Most of my papers, you can get them from my [Homepage](https://sites.google.com/site/yekyawthunlp/).  
 (Browser ကနေ စာတမ်းတွေကို loading လုပ်တာ ကြာနေရင် download လုပ်ပြီးဖတ်ပါ။ အဲဒါက ပိုမြန်ပါတယ်။)  
 
-### 
+### GITS/GITI Research Bulletin 2009-2010
 
 **Ye Kyaw Thu**, Sai Aung Win Maung and Yoshiyori URANO, "Direct Keyboard Mapping (DKM) Layout for Myanmar Fingerspelling Text Input (Study with Developed Fingerspelling Font "mmfingerspelling.ttf")", GITS/GITI Research Bulletin 2009-2010, Waseda University, pp. 127-135.  (published on July 31, 2010).[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/GITS-GITI-Research-Bulletin_2009-2010/127_135_Ye%20Kyaw%20Thu%2C%20Sai%20Aung%20Win%20Maung%20and%20Yoshiyori%20Urano.pdf)]
 
