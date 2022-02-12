@@ -5,7 +5,7 @@ Most of my papers, you can get them from my [Homepage](https://sites.google.com/
 
 ### GITS/GITI Research Bulletin 2009-2010
 
-**Ye Kyaw Thu**, Sai Aung Win Maung and Yoshiyori URANO, "Direct Keyboard Mapping (DKM) Layout for Myanmar Fingerspelling Text Input (Study with Developed Fingerspelling Font "mmfingerspelling.ttf")", GITS/GITI Research Bulletin 2009-2010, Waseda University, pp. 127-135.  (published on July 31, 2010).[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/GITS-GITI-Research-Bulletin_2009-2010/127_135_Ye%20Kyaw%20Thu%2C%20Sai%20Aung%20Win%20Maung%20and%20Yoshiyori%20Urano.pdf)]
+**Ye Kyaw Thu**, Sai Aung Win Maung and Yoshiyori URANO, "Direct Keyboard Mapping (DKM) Layout for Myanmar Fingerspelling Text Input (Study with Developed Fingerspelling Font "mmfingerspelling.ttf")", GITS/GITI Research Bulletin 2009-2010, Waseda University, pp. 127-135.  (published on July 31, 2010). [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/GITS-GITI-Research-Bulletin_2009-2010/127_135_Ye%20Kyaw%20Thu%2C%20Sai%20Aung%20Win%20Maung%20and%20Yoshiyori%20Urano.pdf)]
 
 ### 12th APRU Doctoral Students Conference, 2011
 
@@ -13,19 +13,19 @@ Most of my papers, you can get them from my [Homepage](https://sites.google.com/
 
 ### IALP-2013
 
-**Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "A Purely Monotonic Approach to Machine Translation for Similar Languages", Proceedings of International Conference on Asian Language Processing 2013 (IALP 2013), August 17~19, 2013, Urumqi, China, pp. 107-110.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IALP2013/aPurelyMonotonicApproachToMachineTranslationForSimilarLanguage.pdf)]
+**Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "A Purely Monotonic Approach to Machine Translation for Similar Languages", Proceedings of International Conference on Asian Language Processing 2013 (IALP 2013), August 17~19, 2013, Urumqi, China, pp. 107-110. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IALP2013/aPurelyMonotonicApproachToMachineTranslationForSimilarLanguage.pdf)]
 
 ### ICCA-2013
 
-**Ye Kyaw Thu**, Andrew Finch, Yoshinori Sagisaka and Eiichiro Sumita, "A Study of Myanmar Word Segmentation Schemes for Statistical Machine Translation", Proceedings of the 11th International Conference on Computer Applications (ICCA 2013), February 26~27, 2013, Yangon, Myanmar, pp. 167-179.[[paper](https://github.com/ye-kyaw-thu/papers/tree/master/ICCA2013)]
+**Ye Kyaw Thu**, Andrew Finch, Yoshinori Sagisaka and Eiichiro Sumita, "A Study of Myanmar Word Segmentation Schemes for Statistical Machine Translation", Proceedings of the 11th International Conference on Computer Applications (ICCA 2013), February 26~27, 2013, Yangon, Myanmar, pp. 167-179. [[paper](https://github.com/ye-kyaw-thu/papers/tree/master/ICCA2013)]
 
 ### SNLP-2013
 
-**Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "Unsupervised and Semi-supervised Myanmar Word Segmentation Approaches for Statistical Machine Translation", Proceedings of the Tenth Symposium on Natural Language Processing (SNLP 2013), October 28~30, 2013, Phuket, Thailand, pp. 47-54.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/SNLP-2013/snlp.bayesSegment.pdf)](Special Award, Emerging)
+**Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, Yoshinori Sagisaka, "Unsupervised and Semi-supervised Myanmar Word Segmentation Approaches for Statistical Machine Translation", Proceedings of the Tenth Symposium on Natural Language Processing (SNLP 2013), October 28~30, 2013, Phuket, Thailand, pp. 47-54. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/SNLP-2013/snlp.bayesSegment.pdf)](Special Award, Emerging)
 
 ### IWSLT-2014
 
-Chenchen Ding, **Ye Kyaw Thu**, Masao Utiyama, Andrew Finch, Eiichiro Sumita, "Empirical Dependency-Based Head Finalization for Statistical Chinese-, English-, and French-to-Myanmar (Burmese) Machine Translation", Proceedings of the 11th International Workshop on Spoken Language Translation (IWSLT 2014), December 4~5, 2014, Lake Tahoe, USA, pp.184-191.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IWSLT2014/IWSLT2014.pdf)]
+Chenchen Ding, **Ye Kyaw Thu**, Masao Utiyama, Andrew Finch, Eiichiro Sumita, "Empirical Dependency-Based Head Finalization for Statistical Chinese-, English-, and French-to-Myanmar (Burmese) Machine Translation", Proceedings of the 11th International Workshop on Spoken Language Translation (IWSLT 2014), December 4~5, 2014, Lake Tahoe, USA, pp.184-191. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/IWSLT2014/IWSLT2014.pdf)]
 
 ### ICCA-2015
 
@@ -33,7 +33,7 @@ Chenchen Ding, **Ye Kyaw Thu**, Masao Utiyama, Andrew Finch, Eiichiro Sumita, "E
 
 ### ICGEC-2015
 
-Win Pa Pa, **Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, "Word Boundary Identification for Myanmar Text Using Conditional Random Fields", In Proceedings of the Ninth International Conference on Genetic and Evolutionary Computing, August 26-28, 2015, Yangon, Myanmar, pp. 447-456.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICGEC2015/typeinst.pdf)]
+Win Pa Pa, **Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, "Word Boundary Identification for Myanmar Text Using Conditional Random Fields", In Proceedings of the Ninth International Conference on Genetic and Evolutionary Computing, August 26-28, 2015, Yangon, Myanmar, pp. 447-456. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICGEC2015/typeinst.pdf)]
 
 ### Interspeech2015
 
@@ -41,7 +41,7 @@ Win Pa Pa, **Ye Kyaw Thu**, Andrew Finch, Eiichiro Sumita, "Word Boundary Identi
 
 ### PACLIC-2015
 
-**Ye Kyaw Thu**, Vichet Chea, Andrew Finch, Masao Utiyama and Eiichiro Sumita, "A Large-scale Study of Statistical Machine Translation Methods for Khmer Language",  29th Pacific Asia Conference on Language, Information and Computation, October 30 - November 1, 2015, Shanghai, China, pp. 259-269.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/PACLIC-2015/khmersmt.pdf)]
+**Ye Kyaw Thu**, Vichet Chea, Andrew Finch, Masao Utiyama and Eiichiro Sumita, "A Large-scale Study of Statistical Machine Translation Methods for Khmer Language",  29th Pacific Asia Conference on Language, Information and Computation, October 30 - November 1, 2015, Shanghai, China, pp. 259-269. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/PACLIC-2015/khmersmt.pdf)]
 
 ### SLTU-2016
 
@@ -49,7 +49,7 @@ Win Pa Pa, **Ye Kyaw Thu**, Andrew Finch and Eiichiro Sumita, "A Study of Statis
 
 ### NAACL-2016
 
-**Ye Kyaw Thu**, Andrew Finch and Eiichiro Sumita, "Interlocking Phrases in Phrase-based Statistical Machine Translation", In Proceedings of the NAACL-HLT 2016, June 12-17, San Diego, US, pp. 1076-1081.[[paper](https://github.com/ye-kyaw-thu/papers/blob/master/NAACL-2016/N16-1124.pdf)]
+**Ye Kyaw Thu**, Andrew Finch and Eiichiro Sumita, "Interlocking Phrases in Phrase-based Statistical Machine Translation", In Proceedings of the NAACL-HLT 2016, June 12-17, San Diego, US, pp. 1076-1081. [[paper](https://github.com/ye-kyaw-thu/papers/blob/master/NAACL-2016/N16-1124.pdf)]
 
 ### AROB-2017
 
@@ -57,7 +57,7 @@ Kenta Takabuchi, Naoto Iwahashi, **Ye Kyaw Thu**, Takeo Kunishima, "DNN-based ob
 
 ### ICCA2017
 
-Aye Nyein Mon, Win Pa Pa and **Ye Kyaw Thu**, "Building Myanmar Continuous Automatic Speech Recognition on Web News", In Proceedings of ICCA2017, February 16-17, 2017, Yangon, Myanmar, pp. 446-453, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2017/CameraReadyPaperByAyeNyeinMon.pdf)].  
+Aye Nyein Mon, Win Pa Pa and **Ye Kyaw Thu**, "Building Myanmar Continuous Automatic Speech Recognition on Web News", In Proceedings of ICCA2017, February 16-17, 2017, Yangon, Myanmar, pp. 446-453. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2017/CameraReadyPaperByAyeNyeinMon.pdf)].  
 
 ### PACLING 2017
 
@@ -67,7 +67,7 @@ Aye Nyein Mon, Win Pa Pa and **Ye Kyaw Thu**, "Exploring the Effect of Tones for
 
 ### HAI 2017
 
-**Ye Kyaw Thu**, Takuya Ishida, Naoto Iwahashi, Tomoaki Nakamura and Takayuki Nagai, "Symbol Grounding from Natural Conversation for Human-Robot Communication", In Proceedings of the 5th International Conference on Human-Agent Interaction (HAI 2017), October 17-20, 2017, CITEC, Bielefeld, Germany, pp. 415-419.[[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/3125739.3132611.pdf)], [[Poster](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/hai2017-poster.pdf)]  
+**Ye Kyaw Thu**, Takuya Ishida, Naoto Iwahashi, Tomoaki Nakamura and Takayuki Nagai, "Symbol Grounding from Natural Conversation for Human-Robot Communication", In Proceedings of the 5th International Conference on Human-Agent Interaction (HAI 2017), October 17-20, 2017, CITEC, Bielefeld, Germany, pp. 415-419. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/3125739.3132611.pdf)], [[Poster](https://github.com/ye-kyaw-thu/papers/blob/master/HAI2017/hai2017-poster.pdf)]  
 
 ### O-COCOSDA 2017
 
@@ -83,63 +83,63 @@ Aye Mya Hlaing, Win Pa Pa and **Ye Kyaw Thu**, "DNN-based Myanmar Speech Synthes
 
 ### ONA-2018  
 
-Swe Zin Moe, **Ye Kyaw Thu**, Hnin Aye Thant and Nandar Win Min, "Neural Machine Translation between Myanmar Sign Language and Myanmar Written Text", In the second Regional Conference on Optical character recognition and Natural language processing technologies for ASEAN languages 2018 ([ONA 2018](http://ona.niptict.edu.kh/)), December 13-14, 2018, Phnom Penh, Cambodia, [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ONA2018/NMTbetweenMSLandMWT.pdf)]  
+Swe Zin Moe, **Ye Kyaw Thu**, Hnin Aye Thant and Nandar Win Min, "Neural Machine Translation between Myanmar Sign Language and Myanmar Written Text", In the second Regional Conference on Optical character recognition and Natural language processing technologies for ASEAN languages 2018 ([ONA 2018](http://ona.niptict.edu.kh/)), December 13-14, 2018, Phnom Penh, Cambodia. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ONA2018/NMTbetweenMSLandMWT.pdf)]  
 
 ### ICCA2019
 
-Ni Htwe Aung, **Ye Kyaw Thu**, Su Su Maung, "Feature Based Myanmar Fingerspelling Image Classification Using SIFT, SURF and BRIEF", In Proceedings of the 17th International Conference on Computer Applications (ICCA 2019), February 27 - March 1, 2019, Yangon, Myanmar [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/paper_for_upload_1.pdf)]  
+Ni Htwe Aung, **Ye Kyaw Thu**, Su Su Maung, "Feature Based Myanmar Fingerspelling Image Classification Using SIFT, SURF and BRIEF", In Proceedings of the 17th International Conference on Computer Applications (ICCA 2019), February 27 - March 1, 2019, Yangon, Myanmar. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/paper_for_upload_1.pdf)]  
 
 Ou Ou Khin, **Ye Kyaw Thu**, Tadashi Sakata, Yoshinori Sagisaka, Yuichi Ueda, "Myanmar Speech Classification Using 
-Transfer Learning for Image Classification", In Proceedings of the 17th International Conference on Computer Applications (ICCA 2019), February 27 - March 1, 2019, Yangon, Myanmar [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)]  
+Transfer Learning for Image Classification", In Proceedings of the 17th International Conference on Computer Applications (ICCA 2019), February 27 - March 1, 2019, Yangon, Myanmar. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICCA2019/MyanmarSpeechClassificationUsingTransferLearningForImageClassification.pdf)]  
 
 ### VarDial2019
 
-Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe, "Neural Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese)", In Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects, June 7th 2019, Minneapolis, United States, pp. 80-88 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/VarDial2019/W19-1408.pdf)]
+Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe, "Neural Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese)", In Proceedings of the Sixth Workshop on NLP for Similar Languages, Varieties and Dialects, June 7th 2019, Minneapolis, United States, pp. 80-88. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/VarDial2019/W19-1408.pdf)]
 
 ### NSURL 2019
 
-Thazin Myint OO, **Ye Kyaw Thu**, Khin Mar Soe, Thepchai Supnithi, "Statistical Machine Translation between Myanmar (Burmese) and Dawei (Tavoyan)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_23.pdf)]   
+Thazin Myint OO, **Ye Kyaw Thu**, Khin Mar Soe, Thepchai Supnithi, "Statistical Machine Translation between Myanmar (Burmese) and Dawei (Tavoyan)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_23.pdf)]   
 
-Khaing Hsu Wai, **Ye Kyaw Thu**, Hnin Aye Thant, Swe Zin Moe, Thepchai Supnithi, "String Similarity Measures for Myanmar Language (Burmese)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_24.pdf)]  
+Khaing Hsu Wai, **Ye Kyaw Thu**, Hnin Aye Thant, Swe Zin Moe, Thepchai Supnithi, "String Similarity Measures for Myanmar Language (Burmese)", The First Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019), 11-13 September 2019, Trento, Italy. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/NSURL2019/NSURL_2019_paper_24.pdf)]  
 
 ### SSW10, 2019
 
-Aye Mya Hlaing, Win Pa Pa, **Ye Kyaw Thu**, "Enhancing Myanmar Speech Synthesis with Linguistic Information and LSTM-RNN", In Proceedings of the 10th ISCA Speech Synthesis Workshop (SSW10), 20-22 September, 2019, Vienna, Austria [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/SSW10/SSW10_O_5-1.pdf)]  
+Aye Mya Hlaing, Win Pa Pa, **Ye Kyaw Thu**, "Enhancing Myanmar Speech Synthesis with Linguistic Information and LSTM-RNN", In Proceedings of the 10th ISCA Speech Synthesis Workshop (SSW10), 20-22 September, 2019, Vienna, Austria. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/SSW10/SSW10_O_5-1.pdf)]  
 
 ### IJNLC, 2019
 
-Aye Nyein Mon, Win Pa Pa, **Ye Kyaw Thu**, "Improving Myanmar Automatic Speech Recognition with Optimization of Convolutional Neural Network Parameters", International Journal on Natural Language Computing (IJNLC), Vol 7, No 6, December, 2018 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/IJNLC/7618ijnlc01.pdf)]
+Aye Nyein Mon, Win Pa Pa, **Ye Kyaw Thu**, "Improving Myanmar Automatic Speech Recognition with Optimization of Convolutional Neural Network Parameters", International Journal on Natural Language Computing (IJNLC), Vol 7, No 6, December, 2018. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/IJNLC/7618ijnlc01.pdf)]
 
 ### IJECE, 2019
 
-Aye Nyein Mon, Win Pa Pa, **Ye Kyaw Thu**, "UCSY-SC1: A Myanmar speech corpus for automatic speech recognition", International Journal of Electrical and Computer Engineering (IJECE), Vol. 9, No. 4, August 2019, pp. 3194 3202, ISSN: 2088-8708  [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/IJECE-2019/UCSY-SC1-IJECE2019.pdf)] 
+Aye Nyein Mon, Win Pa Pa, **Ye Kyaw Thu**, "UCSY-SC1: A Myanmar speech corpus for automatic speech recognition", International Journal of Electrical and Computer Engineering (IJECE), Vol. 9, No. 4, August 2019, pp. 3194 3202, ISSN: 2088-8708. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/IJECE-2019/UCSY-SC1-IJECE2019.pdf)] 
 
 
 ### ICFCC, 2020
 
-Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe and Thepchai Supnithi, "Statistical Machine Translation between Myanmar and Myeik", In Proceedings of the 12th International Conference on Future Computer and Communication (ICFCC 2020), Feb 26-28, 2020, Yangon, Myanmar, pp. 36-45 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICFCC2020/07.pdf)]  
+Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe and Thepchai Supnithi, "Statistical Machine Translation between Myanmar and Myeik", In Proceedings of the 12th International Conference on Future Computer and Communication (ICFCC 2020), Feb 26-28, 2020, Yangon, Myanmar, pp. 36-45. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ICFCC2020/07.pdf)]  
 
 ### JIIST Vol.4, April 2020
 
-Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe, Thepchai Supnithi, "Statistical Machine Translation of Myanmar Dialects", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (Submitted December 21, 2019; accepted March 6, 2020; revised March 18, 2020; published online April 30, 2020) [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.3.my-dialects.pdf)]  
+Thazin Myint Oo, **Ye Kyaw Thu**, Khin Mar Soe, Thepchai Supnithi, "Statistical Machine Translation of Myanmar Dialects", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (Submitted December 21, 2019; accepted March 6, 2020; revised March 18, 2020; published online April 30, 2020). [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.3.my-dialects.pdf)]  
 
-Khaing Hsu Wai, **Ye Kyaw Thu**, Swe Zin Moe, Hnin Aye Thant, Thepchai Supnithi, "Myanmar (Burmese) String Similarity Measures based on Phoneme Similarity", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (submitted December 21, 2019; accepted March 6, 2020; revised March 16, 2020; published online April 30, 2020) [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.4.my-string-similarity.pdf)]   
+Khaing Hsu Wai, **Ye Kyaw Thu**, Swe Zin Moe, Hnin Aye Thant, Thepchai Supnithi, "Myanmar (Burmese) String Similarity Measures based on Phoneme Similarity", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (submitted December 21, 2019; accepted March 6, 2020; revised March 16, 2020; published online April 30, 2020). [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.4.my-string-similarity.pdf)]   
 
-Ni Htwe Aung, **Ye Kyaw Thu**, Su Su Maung, Swe Zin Moe, Hlaing Myat Nwe, "Transfer Learning Based Myanmar Sign Language Recognition for Myanmar Consonants", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (submitted December 21, 2019; accepted March 6, 2020; revised March 16, 2020; published online April 30, 2020) [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.5.mysign-transfer-camready.pdf)]  
+Ni Htwe Aung, **Ye Kyaw Thu**, Su Su Maung, Swe Zin Moe, Hlaing Myat Nwe, "Transfer Learning Based Myanmar Sign Language Recognition for Myanmar Consonants", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (submitted December 21, 2019; accepted March 6, 2020; revised March 16, 2020; published online April 30, 2020). [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.5.mysign-transfer-camready.pdf)]  
 
-Hlaing Myat Nwe, **Ye Kyaw Thu**, Hnin Aye Thant, "Myanmar SignWriting Keyboard Mapping Layout for Fingerspelling", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (submitted December 21, 2019; accepted March 6, 2020; revised April 25, 2020; published online April 30, 2020) [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.6.sw-keyboard-camready.pdf)]  
+Hlaing Myat Nwe, **Ye Kyaw Thu**, Hnin Aye Thant, "Myanmar SignWriting Keyboard Mapping Layout for Fingerspelling", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (submitted December 21, 2019; accepted March 6, 2020; revised April 25, 2020; published online April 30, 2020). [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.6.sw-keyboard-camready.pdf)]  
 
-Swe Zin Moe, **Ye Kyaw Thu**, Hnin Aye Thant, Nandar Win Min, and Thepchai Supnithi, "Unsupervised Neural Machine Translation between Myanmar Sign Language and Myanmar Language", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (Submitted December 21, 2019; accepted March 6, 2020; revised March 16, 2020; published online April 30, 2020) [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.7.unmt-mysl-camready.pdf)]  
+Swe Zin Moe, **Ye Kyaw Thu**, Hnin Aye Thant, Nandar Win Min, and Thepchai Supnithi, "Unsupervised Neural Machine Translation between Myanmar Sign Language and Myanmar Language", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (Submitted December 21, 2019; accepted March 6, 2020; revised March 16, 2020; published online April 30, 2020). [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.7.unmt-mysl-camready.pdf)]  
 
-Zar Zar Linn, **Ye Kyaw Thu**, Pushpa B. Patil, "Statistical Machine Translation between Myanmar (Burmese) and Kayah Languages", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (submitted December 21, 2019; accepted March 6, 2020; revised April 23, 2020; published online April 30, 2020) [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.8.myky-smt-camready.pdf)]  
+Zar Zar Linn, **Ye Kyaw Thu**, Pushpa B. Patil, "Statistical Machine Translation between Myanmar (Burmese) and Kayah Languages", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020 (submitted December 21, 2019; accepted March 6, 2020; revised April 23, 2020; published online April 30, 2020). [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.8.myky-smt-camready.pdf)]  
 
 ### ECTI-CON, 2020
 
-Wint Theingi Zaw, Shwe Sin Moe, **Ye Kyaw Thu**, Nyein Nyein Oo, "Applying Weighted Finite State Transducers and Ripple Down Rules for Myanmar Name Romanization", In Proceedings of the 17th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON 2020), June 24-27, 2020, Virtual Conference Hosted by College of Computing, Prince of Songkla University, Thailand, pp. 143-148 [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ECTI-CON2020/PID6499733.pdf)]
+Wint Theingi Zaw, Shwe Sin Moe, **Ye Kyaw Thu**, Nyein Nyein Oo, "Applying Weighted Finite State Transducers and Ripple Down Rules for Myanmar Name Romanization", In Proceedings of the 17th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON 2020), June 24-27, 2020, Virtual Conference Hosted by College of Computing, Prince of Songkla University, Thailand, pp. 143-148. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/ECTI-CON2020/PID6499733.pdf)]
 
 ### O-COCOSDA, 2020
 
-Hnin Yi Aye, Yuzana Win, Ye Kyaw Thu, "Statistical Machine Translation between Myanmar (Burmese) and Chin (Mizo) Language", In Proceedings of The 23rd Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2020), Nov 5-7 2020, Yangon, Myanmar, pp. 211-216.[[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/O-COCOSDA-2020/O-COCOSDA_2020_paper_37.pdf)  
+Hnin Yi Aye, Yuzana Win, Ye Kyaw Thu, "Statistical Machine Translation between Myanmar (Burmese) and Chin (Mizo) Language", In Proceedings of The 23rd Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2020), Nov 5-7 2020, Yangon, Myanmar, pp. 211-216. [[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/O-COCOSDA-2020/O-COCOSDA_2020_paper_37.pdf)  
 
 Shwe Sin Moe, Ye Kyaw Thu, Wint Theingi Zaw, Ni Htwe Aung, Nyein Nyein Oo, Thepchai Supnithi, "The State-of-the-Art Phonemic and Syllable Unit Transcriptions for Myanmar Names", In Proceedings of The 23rd Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2020), Nov 5-7 2020, Yangon, Myanmar, pp. 204-210. [[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/O-COCOSDA-2020/O-COCOSDA_2020_paper_39.pdf)  
 
