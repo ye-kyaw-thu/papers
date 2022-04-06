@@ -143,9 +143,9 @@ Wint Theingi Zaw, Shwe Sin Moe, **Ye Kyaw Thu**, Nyein Nyein Oo, "Applying Weigh
 
 ### O-COCOSDA, 2020
 
-Hnin Yi Aye, Yuzana Win, Ye Kyaw Thu, "Statistical Machine Translation between Myanmar (Burmese) and Chin (Mizo) Language", In Proceedings of The 23rd Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2020), Nov 5-7 2020, Yangon, Myanmar, pp. 211-216. [[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/O-COCOSDA-2020/O-COCOSDA_2020_paper_37.pdf)  
+Hnin Yi Aye, Yuzana Win, **Ye Kyaw Thu**, "Statistical Machine Translation between Myanmar (Burmese) and Chin (Mizo) Language", In Proceedings of The 23rd Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2020), Nov 5-7 2020, Yangon, Myanmar, pp. 211-216. [[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/O-COCOSDA-2020/O-COCOSDA_2020_paper_37.pdf)  
 
-Shwe Sin Moe, Ye Kyaw Thu, Wint Theingi Zaw, Ni Htwe Aung, Nyein Nyein Oo, Thepchai Supnithi, "The State-of-the-Art Phonemic and Syllable Unit Transcriptions for Myanmar Names", In Proceedings of The 23rd Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2020), Nov 5-7 2020, Yangon, Myanmar, pp. 204-210. [[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/O-COCOSDA-2020/O-COCOSDA_2020_paper_39.pdf)  
+Shwe Sin Moe, **Ye Kyaw Thu**, Wint Theingi Zaw, Ni Htwe Aung, Nyein Nyein Oo, Thepchai Supnithi, "The State-of-the-Art Phonemic and Syllable Unit Transcriptions for Myanmar Names", In Proceedings of The 23rd Conference of the Oriental Chapter of the International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (Oriental COCOSDA 2020), Nov 5-7 2020, Yangon, Myanmar, pp. 204-210. [[Paper]](https://github.com/ye-kyaw-thu/papers/blob/master/O-COCOSDA-2020/O-COCOSDA_2020_paper_39.pdf)  
 
 ### JIIST Vol.5, April 2021
 
@@ -157,6 +157,6 @@ Hnin Yu Hlaing, **Ye Kyaw Thu**, Hlaing Myat Nwe, Hnin Aye Thant, Htet Ne Oo, Th
 
 ### JIIST Vol. 6, October 2021
 
-Hay Man Htun, Ye Kyaw Thu, Hlaing Myat Nwe, May Thu Win, Naw Naw, "Statistical Machine Translation System Combinations on Phrase-based, Hierarchical Phrase-based and Operation Sequence Model for Burmese and Pa’O Language Pair", Journal of Intelligent Informatics and Smart Technology, October Issue, 2021, pp. 1-9. [[Paper](https://jiist.aiat.or.th/assets/uploads/16358532509174mWmk1635597606360zVL7vbare_jrnl.pdf)]
+Hay Man Htun, **Ye Kyaw Thu**, Hlaing Myat Nwe, May Thu Win, Naw Naw, "Statistical Machine Translation System Combinations on Phrase-based, Hierarchical Phrase-based and Operation Sequence Model for Burmese and Pa’O Language Pair", Journal of Intelligent Informatics and Smart Technology, October Issue, 2021, pp. 1-9. [[Paper](https://jiist.aiat.or.th/assets/uploads/16358532509174mWmk1635597606360zVL7vbare_jrnl.pdf)]
 
-Cho Zin Oo, Ye Kyaw Thu, Hlaing Myat Nwe, Hnin Aye Thant, "Question Classification for Automatic Question-Answering in Agriculture Domain", Journal of Intelligent Informatics and Smart Technology, October Issue, 2021, pp. 10-18. [[Paper](https://jiist.aiat.or.th/assets/uploads/16358531678571fGUM1635597555523j34iwques_ans.pdf)]  
+Cho Zin Oo, **Ye Kyaw Thu**, Hlaing Myat Nwe, Hnin Aye Thant, "Question Classification for Automatic Question-Answering in Agriculture Domain", Journal of Intelligent Informatics and Smart Technology, October Issue, 2021, pp. 10-18. [[Paper](https://jiist.aiat.or.th/assets/uploads/16358531678571fGUM1635597555523j34iwques_ans.pdf)]  
