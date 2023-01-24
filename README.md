@@ -161,6 +161,6 @@ Hay Man Htun, **Ye Kyaw Thu**, Hlaing Myat Nwe, May Thu Win, Naw Naw, "Statistic
 
 Cho Zin Oo, **Ye Kyaw Thu**, Hlaing Myat Nwe, Hnin Aye Thant, "Question Classification for Automatic Question-Answering in Agriculture Domain", Journal of Intelligent Informatics and Smart Technology, October Issue, 2021, pp. 10-18. [[Paper](https://jiist.aiat.or.th/assets/uploads/16358531678571fGUM1635597555523j34iwques_ans.pdf)]  
 
-### IEEE ACCESS Journal, 2023
+### IEEE Access Journal, 2023
 
 Thazin Myint Oo, Thitipong Tanprasert, Ye Kyaw Thu, Thepchai Supnithi, "Transfer and Triangulation Pivot Translation Approaches for Burmese Dialects," in IEEE Access, vol. 11, pp. 6150-6168, 2023, doi: 10.1109/ACCESS.2023.3236804. (Received 15 October 2022, accepted 27 December 2022, date of publication 13 January 2023, date of current version 20 January 2023.) [[Paper](https://ieeexplore.ieee.org/document/10016703?source=authoralert)]
