@@ -1,5 +1,5 @@
 # Some papers
-I plan to keep some published papers here.  
+I plan to keep some published papers, posters here.  
 Most of my papers, you can get them from my [Homepage](https://sites.google.com/site/yekyawthunlp/).  
 (Browser ကနေ စာတမ်းတွေကို loading လုပ်တာ ကြာနေရင် download လုပ်ပြီးဖတ်ပါ။ အဲဒါက ပိုမြန်ပါတယ်။)  
 
@@ -163,4 +163,8 @@ Cho Zin Oo, **Ye Kyaw Thu**, Hlaing Myat Nwe, Hnin Aye Thant, "Question Classifi
 
 ### IEEE Access Journal, 2023
 
-Thazin Myint Oo, Thitipong Tanprasert, Ye Kyaw Thu, Thepchai Supnithi, "Transfer and Triangulation Pivot Translation Approaches for Burmese Dialects," in IEEE Access, vol. 11, pp. 6150-6168, 2023, doi: 10.1109/ACCESS.2023.3236804. (Received 15 October 2022, accepted 27 December 2022, date of publication 13 January 2023, date of current version 20 January 2023.) [[Paper](https://ieeexplore.ieee.org/document/10016703?source=authoralert)]
+Thazin Myint Oo, Thitipong Tanprasert, **Ye Kyaw Thu**, Thepchai Supnithi, "Transfer and Triangulation Pivot Translation Approaches for Burmese Dialects," in IEEE Access, vol. 11, pp. 6150-6168, 2023, doi: 10.1109/ACCESS.2023.3236804. (Received 15 October 2022, accepted 27 December 2022, date of publication 13 January 2023, date of current version 20 January 2023.) [[Paper](https://ieeexplore.ieee.org/document/10016703?source=authoralert)]
+
+### MLRS (Machine Learning Research Summer School) 2023
+
+**Ye Kyaw Thu**, SOEUM Zera, OENG Mengthong, KONG Phutphalla, "ChatGPT-Assisted Development of Cambodian Fingerspelling (CFS) Educational Software," at the Machine Learning Research Summer School, Aug 2-9, 2023, Bangkok, Thailand. [[Poster](https://github.com/ye-kyaw-thu/papers/blob/master/MLRS2023/chatGPT_CFS.pptx.pdf)]  
