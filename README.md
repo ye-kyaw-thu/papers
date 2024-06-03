@@ -168,3 +168,8 @@ Thazin Myint Oo, Thitipong Tanprasert, **Ye Kyaw Thu**, Thepchai Supnithi, "Tran
 ### MLRS (Machine Learning Research Summer School) 2023
 
 **Ye Kyaw Thu**, SOEUM Zera, OENG Mengthong, KONG Phutphalla, "ChatGPT-Assisted Development of Cambodian Fingerspelling (CFS) Educational Software," at the Machine Learning Research Summer School, Aug 2-9, 2023, Bangkok, Thailand. [[Poster](https://github.com/ye-kyaw-thu/papers/blob/master/MLRS2023/chatGPT_CFS.pptx.pdf)]  
+
+### LREC-COLING 2024
+
+Hay Man Htun, **Ye Kyaw Thu**, Hutchatai Chanlekha, Kotaro Funakoshi and Thepchai Supnithi, "End-to-End Burmese Automatic Speech Recognition for Medical Conversations", the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), 20-25 May, Torino, Italy, pp. 12032–12039 [[Paper](https://aclanthology.org/2024.lrec-main.1051.pdf)]  
+
