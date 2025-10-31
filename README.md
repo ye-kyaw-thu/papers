@@ -173,3 +173,7 @@ Thazin Myint Oo, Thitipong Tanprasert, **Ye Kyaw Thu**, Thepchai Supnithi, "Tran
 
 Hay Man Htun, **Ye Kyaw Thu**, Hutchatai Chanlekha, Kotaro Funakoshi and Thepchai Supnithi, "End-to-End Burmese Automatic Speech Recognition for Medical Conversations", the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), 20-25 May, Torino, Italy, pp. 12032–12039 [[Paper](https://aclanthology.org/2024.lrec-main.1051.pdf)]  
 
+### JIIST Vol. 11, No.1, October 2025
+
+Khaing Hsu Wai, **Ye Kyaw Thu**, Thazin Myint Oo, Nobuo Funabaki, Lu Xiqin and Akihiro Yamamura, "A Study on AI-Driven Question Generation Using ChatGPT forPython Programming Education", Journal of Intelligent Informatics and Smart Technology, October Issue, 2025, pp. 1-7. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-Oct-2025/JIIST-31-Oct-2025_paper.pdf)]  
+
