@@ -177,3 +177,10 @@ Hay Man Htun, **Ye Kyaw Thu**, Hutchatai Chanlekha, Kotaro Funakoshi and Thepcha
 
 Khaing Hsu Wai, **Ye Kyaw Thu**, Thazin Myint Oo, Nobuo Funabaki, Lu Xiqin and Akihiro Yamamura, "A Study on AI-Driven Question Generation Using ChatGPT forPython Programming Education", Journal of Intelligent Informatics and Smart Technology, October Issue, 2025, pp. 1-7. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-Oct-2025/JIIST-31-Oct-2025_paper.pdf)]  
 
+### iSAI-NLP 2025
+
+Thura Aung, Eaint Kay Khaing Kyaw, **Ye Kyaw Thu**, Thazin Myint Oo, Thepchai Supnithi, "Enhancing Burmese News Classification with Kolmogorov-Arnold Network Head Fine-tuning", In Proceedings of the 20th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP 2025), Nov 12 to 14, 2025, Phuket, Thailand, pp. x-x. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/iSAI-NLP2025/KAN_text_clf_head_finetuning_arxiv.pdf)]  
+
+Ye Bhone Lin, Thura Aung, **Ye Kyaw Thu**, Thazin Myint Oo, "ASR Error Correction in Low-Resource Burmese with Alignment-Enhanced Transformers using Phonetic Features", In Proceedings of the 20th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP 2025), Nov 12 to 14, 2025, Phuket, Thailand, pp. x-x. [[Paper](https://github.com/ye-kyaw-thu/papers/blob/master/iSAI-NLP2025/AEC_Camera_Ready_for_Arxiv_rdy.pdf)]  
+
+
